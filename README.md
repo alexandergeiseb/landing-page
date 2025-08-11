@@ -13,7 +13,7 @@ short landing page for the odin project foundations course.
 - HTML5
 - CSS3 (flexbox)
 
-**live demo coming soon**
+~~**live demo coming soon**~~
 
 ### UPDATE (11/08/2025)
 
